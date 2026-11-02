@@ -1,5 +1,10 @@
 # Square Dracula
 
+> **Retired — consolidated into [Grove Sprig](https://github.com/JSRRosenbaum/grove-sprig).**
+> These customizations now live under `sprig/` alongside their native app source
+> on Sprig's `main`. This repository is retained as read-only history. Use Sprig
+> for current installation instructions, issues and changes; the text below is historical.
+
 A square, gapless Dracula layout for [Herdr](https://herdr.dev).
 
 This is the **unofficial Rowan customization fork** at
